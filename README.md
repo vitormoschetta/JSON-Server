@@ -1,6 +1,19 @@
 # JSON-Server
 
 ## Install 
+
+```
+npm init -y
+```
+
+Alterar **package.json**:
+```
+  "scripts": {
+    "start": "json-server --watch db.json --port 2001"
+  }
+```
+
+Adicionar json-server:
 ```
 npm install json-server
 ```
