@@ -1,5 +1,11 @@
 # JSON-Server
 
+## Install 
+```
+npm install json-server
+```
+
+
 ## GET
 GetAll
 ```
