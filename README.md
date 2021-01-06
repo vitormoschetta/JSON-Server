@@ -31,7 +31,7 @@ Body JSON:
 
 
 ## PUT
-Create
+Update
 
 ```
 http://localhost:2001/products/7
